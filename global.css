@@ -30,7 +30,7 @@ footer {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #D3C5EE;
+    background-color: #BFB3D8;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -40,5 +40,5 @@ footer {
 }
 
 .button:hover {
-    background-color: #B7ABD0; 
+    background-color: #DDD7E9; 
 }
