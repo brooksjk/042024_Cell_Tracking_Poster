@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #FFCB8C; /* Light orange */
-    padding: 20px;
+    padding: 15px;
     text-align: center;
 }
 
@@ -17,6 +17,7 @@ header h1 {
 
 footer {
     background-color: #FFCB8C; /* Light orange */
+    margin: 0.5;
     padding: 10px;
     text-align: center;
 }
