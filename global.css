@@ -1,0 +1,22 @@
+body {
+    background-color: #FFF6EB; /* Lighter orange background */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFCB8C; /* Light orange */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #333; /* Black text color */
+}
+
+footer {
+    background-color: #FFCB8C; /* Light orange */
+    padding: 10px;
+    text-align: center;
+}
