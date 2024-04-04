@@ -1,5 +1,5 @@
 body {
-    background-color: #FFF6EB; /* Lighter orange background */
+    background-color: #F6F6F6; /* Lighter orange background */
     margin: 0;
     padding: 0;
 }
@@ -19,4 +19,25 @@ footer {
     background-color: #FFCB8C; /* Light orange */
     padding: 10px;
     text-align: center;
+}
+.buttons-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #E2D4FE;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #B7ABD0; 
 }
