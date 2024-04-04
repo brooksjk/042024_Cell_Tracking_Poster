@@ -42,6 +42,7 @@ footer {
     cursor: pointer;
     border: none;
     border-radius: 5px;
+    font-size: 16px;
 }
 
 .button:hover {
