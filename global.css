@@ -1,28 +1,31 @@
+/* global.css */
+
 body {
-    background-color: #F6F6F6; /* Lighter orange background */
+    background-color: #F6F6F6;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    margin: 0; /* Remove default margin */
 }
 
 header {
-    background-color: #FFCB8C; /* Light orange */
+    background-color: #FFCB8C;
     padding: 15px;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
-    color: #333; /* Black text color */
+    color: #333;
 }
 
 footer {
-    background-color: #FFCB8C; /* Light orange */
-    margin: 0.5;
+    background-color: #FFCB8C;
     padding: 10px;
     text-align: center;
     margin-top: auto;
 }
+
 .buttons-container {
     text-align: center;
     margin-top: 20px;
@@ -42,5 +45,10 @@ footer {
 }
 
 .button:hover {
-    background-color: #DDD7E9; 
+    background-color: #DDD7E9;
+}
+
+.main-content {
+    flex: 1; /* Take up remaining space */
+    padding: 20px; /* Add padding as needed */
 }
